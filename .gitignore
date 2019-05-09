@@ -187,6 +187,7 @@ fabric.properties
 # JetBrains templates
 **___jb_tmp___
 
+log.txt
 ### PhpStorm Patch ###
 # Comment Reason: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-215987721
 
