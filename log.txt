@@ -1,1 +1,0 @@
-Error: Command failed: /usr/local/bin/chrome-cli list links |grep 'music.yandex.ru'
