@@ -1,0 +1,13 @@
+{
+    "name": "yandex-music-control",
+    "main": "main.js",
+    "dependencies": {
+        "@expo/osascript": "^1.9.2",
+        "alfred-workflow-nodejs": "^2.0.1",
+        "node-osascript": "^2.1.0"
+    },
+    "devDependencies": {
+        "eslint-config-airbnb-base": "^13.1.0",
+        "eslint-plugin-import": "^2.14.0"
+    }
+}
